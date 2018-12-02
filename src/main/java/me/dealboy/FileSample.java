@@ -1,7 +1,7 @@
 package me.dealboy;
 
 import org.apache.camel.builder.RouteBuilder;
-import org.springframework.stereotype.Component;
+//import org.springframework.stereotype.Component;
 
 
 public class FileSample extends RouteBuilder {
